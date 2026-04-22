@@ -1,0 +1,16 @@
+{
+  "name": "electrical-ai-static-site",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Static Electrical Ai website served with Node.js.",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js",
+    "serve": "node server.js",
+    "check": "node --check server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
